@@ -23,4 +23,3 @@ export class ShoppingListComponent implements OnInit {
   }
 
 }
-0
